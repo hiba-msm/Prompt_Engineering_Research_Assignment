@@ -86,4 +86,10 @@ This is a small balanced validation dataset, not a broad natural benchmark. The 
 
 ## Course note
 
-Prepared for the Prompt Engineering course research project at MedTech.
+Prepared for the Prompt Engineering course research project at MedTech by:
+
+- Hiba Allah Msallem
+- Issraa Daassi
+- Seif Eddine Mezned
+- Maether Guennichi
+- Brahim Amous
