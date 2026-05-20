@@ -1,0 +1,2 @@
+model,experiment_id,language,sample_id,text,gold,majority_prediction,is_correct_majority,prompt_sensitivity,prediction_counts,prediction_distribution,raw_outputs
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,NUMBER,False,0.28898309867585964,"{""NUMBER"": 6, ""ENTITY"": 2}","{""NUMBER"": 0.75, ""ENTITY"": 0.25}","[""NUMBER"", ""NUMBER"", ""NUMBER"", ""NUMBER"", ""NUMBER"", ""ENTITY"", ""NUMBER"", ""ENTITY""]"

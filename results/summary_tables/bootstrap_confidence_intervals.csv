@@ -1,0 +1,9 @@
+model,language,n_samples,accuracy,accuracy_ci_low,accuracy_ci_high,n_bootstrap,seed
+ALLaM-7B-Instruct-preview,Arabic,60,1.0,1.0,1.0,10000,42
+ALLaM-7B-Instruct-preview,English,60,0.9833333333333333,0.95,1.0,10000,42
+AceGPT-v2-8B-Chat,Arabic,60,0.8833333333333333,0.8,0.95,10000,42
+AceGPT-v2-8B-Chat,English,60,0.9166666666666666,0.8333333333333334,0.9833333333333333,10000,42
+Falcon3-7B-Instruct,Arabic,60,0.9833333333333333,0.95,1.0,10000,42
+Falcon3-7B-Instruct,English,60,1.0,1.0,1.0,10000,42
+Gemini-2.5-Flash,Arabic,60,0.8333333333333334,0.7333333333333333,0.9166666666666666,10000,42
+Gemini-2.5-Flash,English,60,0.9833333333333333,0.95,1.0,10000,42

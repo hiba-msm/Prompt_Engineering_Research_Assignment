@@ -1,0 +1,13 @@
+experiment_id,language,label,n_samples,n_correct,accuracy,avg_prompt_sensitivity
+CrossModel_ALLaM_7B_Pilot07,arabic,ABBREVIATION,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,arabic,DESCRIPTION,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,arabic,ENTITY,10,10,1.0,0.03562071871080222
+CrossModel_ALLaM_7B_Pilot07,arabic,LOCATION,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,arabic,NUMBER,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,arabic,PERSON,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,english,ABBREVIATION,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,english,DESCRIPTION,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,english,ENTITY,10,9,0.9,0.03562071871080222
+CrossModel_ALLaM_7B_Pilot07,english,LOCATION,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,english,NUMBER,10,10,1.0,0.0
+CrossModel_ALLaM_7B_Pilot07,english,PERSON,10,10,1.0,0.0

@@ -1,0 +1,121 @@
+id,label,language,question
+1,NUMBER,English,How many planets are in the Solar System?
+2,NUMBER,English,What year did the first iPhone launch?
+3,NUMBER,English,How many sides does a hexagon have?
+4,NUMBER,English,How many minutes are in two hours?
+5,NUMBER,English,What is the boiling point of water in Celsius?
+6,NUMBER,English,How many players are on a standard soccer team?
+7,NUMBER,English,What is the speed of light in kilometers per second?
+8,NUMBER,English,How many bones are in the adult human body?
+9,NUMBER,English,What is the area of a rectangle that is 8 meters long and 5 meters wide?
+10,NUMBER,English,How many days are there in a leap year?
+11,NUMBER,Arabic,كم عدد الكواكب في النظام الشمسي؟
+12,NUMBER,Arabic,في أي سنة انطلقت أول دورة للألعاب الأولمبية الحديثة؟
+13,NUMBER,Arabic,كم ضلعًا للمثلث؟
+14,NUMBER,Arabic,ما عدد الدقائق في ثلاث ساعات؟
+15,NUMBER,Arabic,كم عدد أيام الأسبوع؟
+16,NUMBER,Arabic,ما درجة غليان الماء بالسيلسيوس؟
+17,NUMBER,Arabic,كم لاعبًا يوجد في فريق كرة القدم داخل الملعب؟
+18,NUMBER,Arabic,كم عدد الحروف في الأبجدية الإنجليزية؟
+19,NUMBER,Arabic,ما نصف العدد 100؟
+20,NUMBER,Arabic,كم شهرًا في السنة الميلادية؟
+21,LOCATION,English,Where is the Eiffel Tower located?
+22,LOCATION,English,What country is Tokyo in?
+23,LOCATION,English,Where is the Sahara Desert located?
+24,LOCATION,English,Which city is the capital of Canada?
+25,LOCATION,English,Where is Mount Everest located?
+26,LOCATION,English,What continent is Brazil located in?
+27,LOCATION,English,Where is the Great Wall of China?
+28,LOCATION,English,Which country contains the city of Barcelona?
+29,LOCATION,English,Where is the Amazon River found?
+30,LOCATION,English,What is the capital city of Tunisia?
+31,LOCATION,Arabic,أين يقع برج إيفل؟
+32,LOCATION,Arabic,في أي دولة تقع مدينة طوكيو؟
+33,LOCATION,Arabic,أين تقع الصحراء الكبرى؟
+34,LOCATION,Arabic,ما المدينة التي تعد عاصمة كندا؟
+35,LOCATION,Arabic,أين يقع جبل إيفرست؟
+36,LOCATION,Arabic,في أي قارة تقع البرازيل؟
+37,LOCATION,Arabic,أين يوجد سور الصين العظيم؟
+38,LOCATION,Arabic,في أي دولة تقع مدينة برشلونة؟
+39,LOCATION,Arabic,أين يوجد نهر الأمازون؟
+40,LOCATION,Arabic,ما عاصمة تونس؟
+41,PERSON,English,Who wrote Romeo and Juliet?
+42,PERSON,English,Who discovered gravity according to the famous apple story?
+43,PERSON,English,Who was the first person to walk on the Moon?
+44,PERSON,English,Who painted the Mona Lisa?
+45,PERSON,English,Who is the founder of Microsoft?
+46,PERSON,English,Who invented the telephone?
+47,PERSON,English,Who was Albert Einstein?
+48,PERSON,English,Who is the main character in Harry Potter?
+49,PERSON,English,Who was the first president of the United States?
+50,PERSON,English,Who composed the Ninth Symphony?
+51,PERSON,Arabic,من كتب مسرحية روميو وجولييت؟
+52,PERSON,Arabic,من اكتشف الجاذبية حسب قصة التفاحة المشهورة؟
+53,PERSON,Arabic,من كان أول إنسان يمشي على سطح القمر؟
+54,PERSON,Arabic,من رسم لوحة الموناليزا؟
+55,PERSON,Arabic,من هو مؤسس شركة مايكروسوفت؟
+56,PERSON,Arabic,من اخترع الهاتف؟
+57,PERSON,Arabic,من هو ألبرت أينشتاين؟
+58,PERSON,Arabic,من هي الشخصية الرئيسية في سلسلة هاري بوتر؟
+59,PERSON,Arabic,من كان أول رئيس للولايات المتحدة؟
+60,PERSON,Arabic,من ألّف السيمفونية التاسعة؟
+61,DESCRIPTION,English,What is photosynthesis?
+62,DESCRIPTION,English,What is artificial intelligence?
+63,DESCRIPTION,English,What does democracy mean?
+64,DESCRIPTION,English,What is climate change?
+65,DESCRIPTION,English,What is the purpose of a database?
+66,DESCRIPTION,English,What is machine learning?
+67,DESCRIPTION,English,What is a black hole?
+68,DESCRIPTION,English,What does inflation mean in economics?
+69,DESCRIPTION,English,What is renewable energy?
+70,DESCRIPTION,English,What is the function of the heart?
+71,DESCRIPTION,Arabic,ما هو التمثيل الضوئي؟
+72,DESCRIPTION,Arabic,ما هو الذكاء الاصطناعي؟
+73,DESCRIPTION,Arabic,ماذا تعني الديمقراطية؟
+74,DESCRIPTION,Arabic,ما هو تغير المناخ؟
+75,DESCRIPTION,Arabic,ما وظيفة قاعدة البيانات؟
+76,DESCRIPTION,Arabic,ما هو تعلم الآلة؟
+77,DESCRIPTION,Arabic,ما هو الثقب الأسود؟
+78,DESCRIPTION,Arabic,ماذا يعني التضخم في الاقتصاد؟
+79,DESCRIPTION,Arabic,ما هي الطاقة المتجددة؟
+80,DESCRIPTION,Arabic,ما وظيفة القلب؟
+81,ENTITY,English,What is the largest ocean on Earth?
+82,ENTITY,English,What device is used to measure temperature?
+83,ENTITY,English,What language is mainly spoken in Brazil?
+84,ENTITY,English,What is the chemical symbol for gold?
+85,ENTITY,English,What animal is known as the king of the jungle?
+86,ENTITY,English,What instrument has black and white keys?
+87,ENTITY,English,What planet is known as the Red Planet?
+88,ENTITY,English,What currency is used in Japan?
+89,ENTITY,English,What programming language is commonly used for Android apps?
+90,ENTITY,English,What is the main gas humans need to breathe?
+91,ENTITY,Arabic,ما هو أكبر محيط على الأرض؟
+92,ENTITY,Arabic,ما الجهاز المستخدم لقياس درجة الحرارة؟
+93,ENTITY,Arabic,ما اللغة الرئيسية المستخدمة في البرازيل؟
+94,ENTITY,Arabic,ما الرمز الكيميائي للذهب؟
+95,ENTITY,Arabic,ما الحيوان المعروف بلقب ملك الغابة؟
+96,ENTITY,Arabic,ما الآلة الموسيقية التي تحتوي على مفاتيح سوداء وبيضاء؟
+97,ENTITY,Arabic,ما الكوكب المعروف بالكوكب الأحمر؟
+98,ENTITY,Arabic,ما العملة المستخدمة في اليابان؟
+99,ENTITY,Arabic,ما لغة البرمجة المستخدمة عادة لتطوير تطبيقات أندرويد؟
+100,ENTITY,Arabic,ما الغاز الأساسي الذي يحتاجه الإنسان للتنفس؟
+101,ABBREVIATION,English,What does NASA stand for?
+102,ABBREVIATION,English,What does CPU mean?
+103,ABBREVIATION,English,What does HTML stand for?
+104,ABBREVIATION,English,What does URL mean?
+105,ABBREVIATION,English,What does AI stand for?
+106,ABBREVIATION,English,What does GPS stand for?
+107,ABBREVIATION,English,What does Wi-Fi stand for?
+108,ABBREVIATION,English,What does USB mean?
+109,ABBREVIATION,English,What does PDF stand for?
+110,ABBREVIATION,English,What does RAM stand for?
+111,ABBREVIATION,Arabic,ماذا يعني اختصار NASA؟
+112,ABBREVIATION,Arabic,ماذا يعني اختصار CPU؟
+113,ABBREVIATION,Arabic,ماذا يعني اختصار HTML؟
+114,ABBREVIATION,Arabic,ماذا يعني اختصار URL؟
+115,ABBREVIATION,Arabic,ماذا يعني اختصار AI؟
+116,ABBREVIATION,Arabic,ماذا يعني اختصار GPS؟
+117,ABBREVIATION,Arabic,ماذا يعني اختصار Wi-Fi؟
+118,ABBREVIATION,Arabic,ماذا يعني اختصار USB؟
+119,ABBREVIATION,Arabic,ماذا يعني اختصار PDF؟
+120,ABBREVIATION,Arabic,ماذا يعني اختصار RAM؟

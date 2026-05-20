@@ -1,0 +1,121 @@
+model,model_type,sample_id,id,language,label,gold_label,question,majority_prediction,predicted_label,is_correct,vote_counts,sensitivity
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,NUMBER,1,"{""NUMBER"": 8}",0.000000
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,LOCATION,LOCATION,1,"{""DESCRIPTION"": 1, ""LOCATION"": 7}",0.193622
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,LOCATION,LOCATION,1,"{""ENTITY"": 1, ""LOCATION"": 7}",0.193622
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,LOCATION,1,"{""ENTITY"": 2, ""LOCATION"": 6}",0.288983
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,LOCATION,1,"{""ENTITY"": 1, ""LOCATION"": 7}",0.193622
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,LOCATION,1,"{""LOCATION"": 8}",0.000000
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,PERSON,PERSON,1,"{""DESCRIPTION"": 1, ""PERSON"": 7}",0.193622
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,PERSON,PERSON,1,"{""PERSON"": 8}",0.000000
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,DESCRIPTION,DESCRIPTION,1,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,ENTITY,ENTITY,1,"{""DESCRIPTION"": 1, ""ENTITY"": 7}",0.193622
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,ENTITY,1,"{""ENTITY"": 8}",0.000000
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,ENTITY,1,"{""DESCRIPTION"": 2, ""ENTITY"": 6}",0.288983
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 7, ""DESCRIPTION"": 1}",0.193622
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 8}",0.000000
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,DESCRIPTION,DESCRIPTION,0,"{""ABBREVIATION"": 4, ""DESCRIPTION"": 4}",0.356207
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 6, ""DESCRIPTION"": 2}",0.288983
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 8}",0.000000
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 8}",0.000000
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 8}",0.000000
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 6, ""DESCRIPTION"": 2}",0.288983
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 7, ""DESCRIPTION"": 1}",0.193622
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,ABBREVIATION,ABBREVIATION,1,"{""ABBREVIATION"": 8}",0.000000
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000

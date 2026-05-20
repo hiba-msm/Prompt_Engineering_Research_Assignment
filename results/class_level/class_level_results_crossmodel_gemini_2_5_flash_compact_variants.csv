@@ -1,0 +1,13 @@
+model,model_type,language,label,n_samples,correct,accuracy
+gemini-2.5-flash,closed,English,NUMBER,10,10,1.000000
+gemini-2.5-flash,closed,English,LOCATION,10,10,1.000000
+gemini-2.5-flash,closed,English,PERSON,10,10,1.000000
+gemini-2.5-flash,closed,English,DESCRIPTION,10,10,1.000000
+gemini-2.5-flash,closed,English,ENTITY,10,10,1.000000
+gemini-2.5-flash,closed,English,ABBREVIATION,10,9,0.900000
+gemini-2.5-flash,closed,Arabic,NUMBER,10,10,1.000000
+gemini-2.5-flash,closed,Arabic,LOCATION,10,10,1.000000
+gemini-2.5-flash,closed,Arabic,PERSON,10,10,1.000000
+gemini-2.5-flash,closed,Arabic,DESCRIPTION,10,10,1.000000
+gemini-2.5-flash,closed,Arabic,ENTITY,10,10,1.000000
+gemini-2.5-flash,closed,Arabic,ABBREVIATION,10,0,0.000000

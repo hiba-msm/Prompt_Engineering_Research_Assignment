@@ -1,0 +1,2 @@
+model,experiment_id,language,sample_id,text,gold,majority_prediction,is_correct_majority,prompt_sensitivity,prediction_counts,prediction_distribution,raw_outputs
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,LOCATION,False,0.3562071871080222,"{""LOCATION"": 4, ""ENTITY"": 4}","{""LOCATION"": 0.5, ""ENTITY"": 0.5}","[""LOCATION"", ""ENTITY"", ""LOCATION"", ""ENTITY"", ""ENTITY"", ""ENTITY"", ""LOCATION"", ""LOCATION""]"

@@ -1,0 +1,13 @@
+id,label,language,question
+en1,PERSON,English,Who invented the telephone?
+en2,LOCATION,English,Where is the Eiffel Tower located?
+en3,NUMBER,English,How many planets are in the solar system?
+en4,ABBREVIATION,English,What does CPU stand for?
+en5,DESCRIPTION,English,What is a volcano?
+en6,ENTITY,English,What is the name of the largest ocean?
+ar1,PERSON,Arabic,من اخترع الهاتف؟
+ar2,LOCATION,Arabic,أين يقع برج إيفل؟
+ar3,NUMBER,Arabic,كم عدد كواكب المجموعة الشمسية؟
+ar4,ABBREVIATION,Arabic,ماذا يعني اختصار CPU؟
+ar5,DESCRIPTION,Arabic,ما هو البركان؟
+ar6,ENTITY,Arabic,ما اسم أكبر محيط في العالم؟

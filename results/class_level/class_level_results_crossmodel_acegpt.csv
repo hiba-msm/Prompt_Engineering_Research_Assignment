@@ -1,0 +1,13 @@
+experiment_id,language,label,n_samples,n_correct,accuracy,avg_prompt_sensitivity
+CrossModel_AceGPT_8B_Pilot07,arabic,ABBREVIATION,10,10,1.0,0.0
+CrossModel_AceGPT_8B_Pilot07,arabic,DESCRIPTION,10,10,1.0,0.028898309867585965
+CrossModel_AceGPT_8B_Pilot07,arabic,ENTITY,10,3,0.3,0.13949503361148247
+CrossModel_AceGPT_8B_Pilot07,arabic,LOCATION,10,10,1.0,0.0
+CrossModel_AceGPT_8B_Pilot07,arabic,NUMBER,10,10,1.0,0.019362156132406654
+CrossModel_AceGPT_8B_Pilot07,arabic,PERSON,10,10,1.0,0.0
+CrossModel_AceGPT_8B_Pilot07,english,ABBREVIATION,10,10,1.0,0.0
+CrossModel_AceGPT_8B_Pilot07,english,DESCRIPTION,10,10,1.0,0.0
+CrossModel_AceGPT_8B_Pilot07,english,ENTITY,10,5,0.5,0.2021326227278359
+CrossModel_AceGPT_8B_Pilot07,english,LOCATION,10,10,1.0,0.0
+CrossModel_AceGPT_8B_Pilot07,english,NUMBER,10,10,1.0,0.028898309867585965
+CrossModel_AceGPT_8B_Pilot07,english,PERSON,10,10,1.0,0.0

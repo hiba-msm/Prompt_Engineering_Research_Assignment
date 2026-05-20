@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Colab
+sample_data/
+
+# Secrets
+.env
+HF_TOKEN.txt
+GEMINI_API_KEY.txt
+token.txt
+credentials.json
+secrets.json
+
+# Model/cache files
+.cache/
+huggingface/
+models/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip files
+*.zip

@@ -1,0 +1,3 @@
+model,experiment_id,language,n_samples,n_prompts,n_generations,accuracy,macro_f1,avg_sensitivity,avg_consistency,type_token_ratio,chars_per_word,consistency_by_class
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,60,8,480,1.0,1.0,0.004816384977930994,0.9916666666666667,0.5039787798408488,5.423774651274653,"{""NUMBER"": 1.0, ""LOCATION"": 1.0, ""PERSON"": 1.0, ""DESCRIPTION"": 1.0, ""ENTITY"": 0.95, ""ABBREVIATION"": 1.0}"
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,8,480,0.9833333333333333,0.9832915622389308,0.010482655835633521,0.9541666666666666,0.6391752577319587,5.428756613756614,"{""NUMBER"": 1.0, ""LOCATION"": 1.0, ""PERSON"": 0.8, ""DESCRIPTION"": 0.925, ""ENTITY"": 1.0, ""ABBREVIATION"": 1.0}"

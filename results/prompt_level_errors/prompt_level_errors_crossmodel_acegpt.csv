@@ -1,0 +1,111 @@
+model,experiment_id,language,sample_id,text,gold,prompt_id,raw_output,prediction,is_correct_prompt_level
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,2,In what year did the Titanic sink?,NUMBER,2,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,2,In what year did the Titanic sink?,NUMBER,4,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,81,What fruit is commonly used to make orange juice?,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,81,What fruit is commonly used to make orange juice?,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,81,What fruit is commonly used to make orange juice?,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,81,What fruit is commonly used to make orange juice?,ENTITY,3,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,81,What fruit is commonly used to make orange juice?,ENTITY,4,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,81,What fruit is commonly used to make orange juice?,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,81,What fruit is commonly used to make orange juice?,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,81,What fruit is commonly used to make orange juice?,ENTITY,7,"DESCRIPTION
+```",DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,83,What vehicle runs on railway tracks?,ENTITY,3,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,83,What vehicle runs on railway tracks?,ENTITY,4,The new question is asking for a specific type of vehicle that,N/A,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,83,What vehicle runs on railway tracks?,ENTITY,5,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,85,What food is made from milk and often used on pizza?,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,85,What food is made from milk and often used on pizza?,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,85,What food is made from milk and often used on pizza?,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,85,What food is made from milk and often used on pizza?,ENTITY,3,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,85,What food is made from milk and often used on pizza?,ENTITY,4,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,85,What food is made from milk and often used on pizza?,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,85,What food is made from milk and often used on pizza?,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,85,What food is made from milk and often used on pizza?,ENTITY,7,"DESCRIPTION
+```",DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,87,What material is commonly used to make windows?,ENTITY,4,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,87,What material is commonly used to make windows?,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,87,What material is commonly used to make windows?,ENTITY,7,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,88,What app is commonly used for video meetings?,ENTITY,0,ABBREVIATION,ABBREVIATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,88,What app is commonly used for video meetings?,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,88,What app is commonly used for video meetings?,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,88,What app is commonly used for video meetings?,ENTITY,3,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,88,What app is commonly used for video meetings?,ENTITY,4,,N/A,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,88,What app is commonly used for video meetings?,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,88,What app is commonly used for video meetings?,ENTITY,6,ABBREVIATION,ABBREVIATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,88,What app is commonly used for video meetings?,ENTITY,7,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,0,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,1,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,3,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,4,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,5,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,6,NUMBER,NUMBER,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,7,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,90,What sport uses a racket and a shuttlecock?,ENTITY,0,PERSON,PERSON,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,90,What sport uses a racket and a shuttlecock?,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,90,What sport uses a racket and a shuttlecock?,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,90,What sport uses a racket and a shuttlecock?,ENTITY,3,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,90,What sport uses a racket and a shuttlecock?,ENTITY,4,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,90,What sport uses a racket and a shuttlecock?,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,90,What sport uses a racket and a shuttlecock?,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,english,90,What sport uses a racket and a shuttlecock?,ENTITY,7,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,5,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,5,ABBREVIATION,ABBREVIATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,7,ABBREVIATION,ABBREVIATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,3,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,4,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,7,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,0,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,2,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,3,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,4,"The answer expected is a specific thing, not a person,",PERSON,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,7,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,3,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,4,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,7,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,3,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,4,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,7,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,3,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,4,,N/A,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,7,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,0,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,1,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,2,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,3,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,4,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,5,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,6,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,7,LOCATION,LOCATION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,1,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,2,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,3,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,4,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,5,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+FreedomIntelligence/AceGPT-v2-8B-Chat,CrossModel_AceGPT_8B_Pilot07,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,7,DESCRIPTION,DESCRIPTION,False

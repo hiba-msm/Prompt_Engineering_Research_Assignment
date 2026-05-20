@@ -1,0 +1,961 @@
+model,experiment_id,language,sample_id,text,gold,prompt_id,raw_output,prediction,is_correct_prompt_level
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,1,How many wheels does a standard bicycle have?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,1,How many wheels does a standard bicycle have?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,1,How many wheels does a standard bicycle have?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,1,How many wheels does a standard bicycle have?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,1,How many wheels does a standard bicycle have?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,1,How many wheels does a standard bicycle have?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,1,How many wheels does a standard bicycle have?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,1,How many wheels does a standard bicycle have?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,2,In what year did the Titanic sink?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,2,In what year did the Titanic sink?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,2,In what year did the Titanic sink?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,2,In what year did the Titanic sink?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,2,In what year did the Titanic sink?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,2,In what year did the Titanic sink?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,2,In what year did the Titanic sink?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,2,In what year did the Titanic sink?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,3,How many hours are in a full day?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,3,How many hours are in a full day?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,3,How many hours are in a full day?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,3,How many hours are in a full day?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,3,How many hours are in a full day?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,3,How many hours are in a full day?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,3,How many hours are in a full day?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,3,How many hours are in a full day?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,4,What is 12 divided by 3?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,4,What is 12 divided by 3?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,4,What is 12 divided by 3?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,4,What is 12 divided by 3?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,4,What is 12 divided by 3?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,4,What is 12 divided by 3?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,4,What is 12 divided by 3?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,4,What is 12 divided by 3?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,5,How many degrees are in a right angle?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,5,How many degrees are in a right angle?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,5,How many degrees are in a right angle?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,5,How many degrees are in a right angle?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,5,How many degrees are in a right angle?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,5,How many degrees are in a right angle?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,5,How many degrees are in a right angle?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,5,How many degrees are in a right angle?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,6,What is 20% of 200?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,6,What is 20% of 200?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,6,What is 20% of 200?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,6,What is 20% of 200?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,6,What is 20% of 200?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,6,What is 20% of 200?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,6,What is 20% of 200?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,6,What is 20% of 200?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,7,How many letters are in the English alphabet?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,7,How many letters are in the English alphabet?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,7,How many letters are in the English alphabet?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,7,How many letters are in the English alphabet?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,7,How many letters are in the English alphabet?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,7,How many letters are in the English alphabet?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,7,How many letters are in the English alphabet?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,7,How many letters are in the English alphabet?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,8,What is the value of 7 squared?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,8,What is the value of 7 squared?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,8,What is the value of 7 squared?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,8,What is the value of 7 squared?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,8,What is the value of 7 squared?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,8,What is the value of 7 squared?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,8,What is the value of 7 squared?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,8,What is the value of 7 squared?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,9,How many months have 31 days?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,9,How many months have 31 days?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,9,How many months have 31 days?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,9,How many months have 31 days?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,9,How many months have 31 days?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,9,How many months have 31 days?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,9,How many months have 31 days?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,9,How many months have 31 days?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,10,How many grams are in one kilogram?,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,10,How many grams are in one kilogram?,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,10,How many grams are in one kilogram?,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,10,How many grams are in one kilogram?,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,10,How many grams are in one kilogram?,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,10,How many grams are in one kilogram?,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,10,How many grams are in one kilogram?,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,10,How many grams are in one kilogram?,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,21,Where is the Statue of Liberty located?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,21,Where is the Statue of Liberty located?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,21,Where is the Statue of Liberty located?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,21,Where is the Statue of Liberty located?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,21,Where is the Statue of Liberty located?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,21,Where is the Statue of Liberty located?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,21,Where is the Statue of Liberty located?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,21,Where is the Statue of Liberty located?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,22,Which country is Lisbon in?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,22,Which country is Lisbon in?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,22,Which country is Lisbon in?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,22,Which country is Lisbon in?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,22,Which country is Lisbon in?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,22,Which country is Lisbon in?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,22,Which country is Lisbon in?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,22,Which country is Lisbon in?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,23,What is the capital city of Australia?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,23,What is the capital city of Australia?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,23,What is the capital city of Australia?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,23,What is the capital city of Australia?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,23,What is the capital city of Australia?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,23,What is the capital city of Australia?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,23,What is the capital city of Australia?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,23,What is the capital city of Australia?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,24,On which continent is Argentina located?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,24,On which continent is Argentina located?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,24,On which continent is Argentina located?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,24,On which continent is Argentina located?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,24,On which continent is Argentina located?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,24,On which continent is Argentina located?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,24,On which continent is Argentina located?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,24,On which continent is Argentina located?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,25,Where are the Pyramids of Giza located?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,25,Where are the Pyramids of Giza located?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,25,Where are the Pyramids of Giza located?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,25,Where are the Pyramids of Giza located?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,25,Where are the Pyramids of Giza located?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,25,Where are the Pyramids of Giza located?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,25,Where are the Pyramids of Giza located?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,25,Where are the Pyramids of Giza located?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,26,Which ocean is west of the United States?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,26,Which ocean is west of the United States?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,26,Which ocean is west of the United States?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,26,Which ocean is west of the United States?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,26,Which ocean is west of the United States?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,26,Which ocean is west of the United States?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,26,Which ocean is west of the United States?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,26,Which ocean is west of the United States?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,27,Which city is famous for Big Ben?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,27,Which city is famous for Big Ben?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,27,Which city is famous for Big Ben?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,27,Which city is famous for Big Ben?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,27,Which city is famous for Big Ben?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,27,Which city is famous for Big Ben?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,27,Which city is famous for Big Ben?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,27,Which city is famous for Big Ben?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,28,In which country is the Taj Mahal located?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,28,In which country is the Taj Mahal located?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,28,In which country is the Taj Mahal located?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,28,In which country is the Taj Mahal located?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,28,In which country is the Taj Mahal located?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,28,In which country is the Taj Mahal located?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,28,In which country is the Taj Mahal located?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,28,In which country is the Taj Mahal located?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,29,Where is Lake Victoria located?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,29,Where is Lake Victoria located?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,29,Where is Lake Victoria located?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,29,Where is Lake Victoria located?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,29,Where is Lake Victoria located?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,29,Where is Lake Victoria located?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,29,Where is Lake Victoria located?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,29,Where is Lake Victoria located?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,30,Which region is known as the Middle East?,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,30,Which region is known as the Middle East?,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,30,Which region is known as the Middle East?,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,30,Which region is known as the Middle East?,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,30,Which region is known as the Middle East?,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,30,Which region is known as the Middle East?,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,30,Which region is known as the Middle East?,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,30,Which region is known as the Middle East?,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,41,Who wrote Pride and Prejudice?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,41,Who wrote Pride and Prejudice?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,41,Who wrote Pride and Prejudice?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,41,Who wrote Pride and Prejudice?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,41,Who wrote Pride and Prejudice?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,41,Who wrote Pride and Prejudice?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,41,Who wrote Pride and Prejudice?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,41,Who wrote Pride and Prejudice?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,42,Who created the character Sherlock Holmes?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,42,Who created the character Sherlock Holmes?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,42,Who created the character Sherlock Holmes?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,42,Who created the character Sherlock Holmes?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,42,Who created the character Sherlock Holmes?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,42,Who created the character Sherlock Holmes?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,42,Who created the character Sherlock Holmes?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,42,Who created the character Sherlock Holmes?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,43,Who discovered penicillin?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,43,Who discovered penicillin?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,43,Who discovered penicillin?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,43,Who discovered penicillin?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,43,Who discovered penicillin?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,43,Who discovered penicillin?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,43,Who discovered penicillin?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,43,Who discovered penicillin?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,44,Who painted The Starry Night?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,44,Who painted The Starry Night?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,44,Who painted The Starry Night?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,44,Who painted The Starry Night?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,44,Who painted The Starry Night?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,44,Who painted The Starry Night?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,44,Who painted The Starry Night?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,44,Who painted The Starry Night?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,45,Who was the first woman to win a Nobel Prize?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,45,Who was the first woman to win a Nobel Prize?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,45,Who was the first woman to win a Nobel Prize?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,45,Who was the first woman to win a Nobel Prize?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,45,Who was the first woman to win a Nobel Prize?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,45,Who was the first woman to win a Nobel Prize?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,45,Who was the first woman to win a Nobel Prize?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,45,Who was the first woman to win a Nobel Prize?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,46,Who led India’s independence movement through nonviolent resistance?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,46,Who led India’s independence movement through nonviolent resistance?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,46,Who led India’s independence movement through nonviolent resistance?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,46,Who led India’s independence movement through nonviolent resistance?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,46,Who led India’s independence movement through nonviolent resistance?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,46,Who led India’s independence movement through nonviolent resistance?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,46,Who led India’s independence movement through nonviolent resistance?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,46,Who led India’s independence movement through nonviolent resistance?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,47,Who is the author of The Lord of the Rings?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,47,Who is the author of The Lord of the Rings?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,47,Who is the author of The Lord of the Rings?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,47,Who is the author of The Lord of the Rings?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,47,Who is the author of The Lord of the Rings?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,47,Who is the author of The Lord of the Rings?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,47,Who is the author of The Lord of the Rings?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,47,Who is the author of The Lord of the Rings?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,48,Who invented the World Wide Web?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,48,Who invented the World Wide Web?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,48,Who invented the World Wide Web?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,48,Who invented the World Wide Web?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,48,Who invented the World Wide Web?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,48,Who invented the World Wide Web?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,48,Who invented the World Wide Web?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,48,Who invented the World Wide Web?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,49,Who was Cleopatra?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,49,Who was Cleopatra?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,49,Who was Cleopatra?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,49,Who was Cleopatra?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,49,Who was Cleopatra?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,49,Who was Cleopatra?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,49,Who was Cleopatra?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,49,Who was Cleopatra?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,50,Who composed Moonlight Sonata?,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,50,Who composed Moonlight Sonata?,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,50,Who composed Moonlight Sonata?,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,50,Who composed Moonlight Sonata?,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,50,Who composed Moonlight Sonata?,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,50,Who composed Moonlight Sonata?,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,50,Who composed Moonlight Sonata?,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,50,Who composed Moonlight Sonata?,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,61,What is gravity?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,61,What is gravity?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,61,What is gravity?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,61,What is gravity?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,61,What is gravity?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,61,What is gravity?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,61,What is gravity?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,61,What is gravity?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,62,What does recycling mean?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,62,What does recycling mean?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,62,What does recycling mean?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,62,What does recycling mean?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,62,What does recycling mean?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,62,What does recycling mean?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,62,What does recycling mean?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,62,What does recycling mean?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,63,What is the purpose of an operating system?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,63,What is the purpose of an operating system?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,63,What is the purpose of an operating system?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,63,What is the purpose of an operating system?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,63,What is the purpose of an operating system?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,63,What is the purpose of an operating system?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,63,What is the purpose of an operating system?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,63,What is the purpose of an operating system?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,64,How does the internet work?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,64,How does the internet work?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,64,How does the internet work?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,64,How does the internet work?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,64,How does the internet work?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,64,How does the internet work?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,64,How does the internet work?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,64,How does the internet work?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,65,What is evaporation?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,65,What is evaporation?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,65,What is evaporation?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,65,What is evaporation?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,65,What is evaporation?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,65,What is evaporation?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,65,What is evaporation?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,65,What is evaporation?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,66,What does cultural diversity mean?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,66,What does cultural diversity mean?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,66,What does cultural diversity mean?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,66,What does cultural diversity mean?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,66,What does cultural diversity mean?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,66,What does cultural diversity mean?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,66,What does cultural diversity mean?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,66,What does cultural diversity mean?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,67,What is the role of the lungs?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,67,What is the role of the lungs?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,67,What is the role of the lungs?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,67,What is the role of the lungs?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,67,What is the role of the lungs?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,67,What is the role of the lungs?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,67,What is the role of the lungs?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,67,What is the role of the lungs?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,68,What is blockchain?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,68,What is blockchain?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,68,What is blockchain?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,68,What is blockchain?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,68,What is blockchain?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,68,What is blockchain?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,68,What is blockchain?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,68,What is blockchain?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,69,What does supply and demand mean?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,69,What does supply and demand mean?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,69,What does supply and demand mean?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,69,What does supply and demand mean?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,69,What does supply and demand mean?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,69,What does supply and demand mean?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,69,What does supply and demand mean?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,69,What does supply and demand mean?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,70,What is the function of a search engine?,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,70,What is the function of a search engine?,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,70,What is the function of a search engine?,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,70,What is the function of a search engine?,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,70,What is the function of a search engine?,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,70,What is the function of a search engine?,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,70,What is the function of a search engine?,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,70,What is the function of a search engine?,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,81,What fruit is commonly used to make orange juice?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,81,What fruit is commonly used to make orange juice?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,81,What fruit is commonly used to make orange juice?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,81,What fruit is commonly used to make orange juice?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,81,What fruit is commonly used to make orange juice?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,81,What fruit is commonly used to make orange juice?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,81,What fruit is commonly used to make orange juice?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,81,What fruit is commonly used to make orange juice?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,82,What tool is used to cut paper?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,82,What tool is used to cut paper?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,82,What tool is used to cut paper?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,82,What tool is used to cut paper?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,82,What tool is used to cut paper?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,82,What tool is used to cut paper?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,82,What tool is used to cut paper?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,82,What tool is used to cut paper?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,83,What vehicle runs on railway tracks?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,83,What vehicle runs on railway tracks?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,83,What vehicle runs on railway tracks?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,83,What vehicle runs on railway tracks?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,83,What vehicle runs on railway tracks?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,83,What vehicle runs on railway tracks?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,83,What vehicle runs on railway tracks?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,83,What vehicle runs on railway tracks?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,84,What object is used to unlock a door?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,84,What object is used to unlock a door?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,84,What object is used to unlock a door?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,84,What object is used to unlock a door?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,84,What object is used to unlock a door?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,84,What object is used to unlock a door?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,84,What object is used to unlock a door?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,84,What object is used to unlock a door?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,85,What food is made from milk and often used on pizza?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,85,What food is made from milk and often used on pizza?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,85,What food is made from milk and often used on pizza?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,85,What food is made from milk and often used on pizza?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,85,What food is made from milk and often used on pizza?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,85,What food is made from milk and often used on pizza?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,85,What food is made from milk and often used on pizza?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,85,What food is made from milk and often used on pizza?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,86,What machine is used to wash clothes?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,86,What machine is used to wash clothes?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,86,What machine is used to wash clothes?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,86,What machine is used to wash clothes?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,86,What machine is used to wash clothes?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,86,What machine is used to wash clothes?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,86,What machine is used to wash clothes?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,86,What machine is used to wash clothes?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,87,What material is commonly used to make windows?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,87,What material is commonly used to make windows?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,87,What material is commonly used to make windows?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,87,What material is commonly used to make windows?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,87,What material is commonly used to make windows?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,87,What material is commonly used to make windows?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,87,What material is commonly used to make windows?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,87,What material is commonly used to make windows?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,88,What app is commonly used for video meetings?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,88,What app is commonly used for video meetings?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,88,What app is commonly used for video meetings?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,88,What app is commonly used for video meetings?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,88,What app is commonly used for video meetings?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,88,What app is commonly used for video meetings?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,88,What app is commonly used for video meetings?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,88,What app is commonly used for video meetings?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,89,What natural satellite orbits Earth?,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,89,What natural satellite orbits Earth?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,89,What natural satellite orbits Earth?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,89,What natural satellite orbits Earth?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,89,What natural satellite orbits Earth?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,89,What natural satellite orbits Earth?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,89,What natural satellite orbits Earth?,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,89,What natural satellite orbits Earth?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,101,What does ATM stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,101,What does ATM stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,101,What does ATM stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,101,What does ATM stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,101,What does ATM stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,101,What does ATM stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,101,What does ATM stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,101,What does ATM stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,102,What does FAQ stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,102,What does FAQ stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,102,What does FAQ stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,102,What does FAQ stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,102,What does FAQ stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,102,What does FAQ stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,102,What does FAQ stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,102,What does FAQ stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,103,What does HTTP stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,103,What does HTTP stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,103,What does HTTP stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,103,What does HTTP stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,103,What does HTTP stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,103,What does HTTP stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,103,What does HTTP stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,103,What does HTTP stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,104,What does SQL stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,104,What does SQL stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,104,What does SQL stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,104,What does SQL stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,104,What does SQL stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,104,What does SQL stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,104,What does SQL stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,104,What does SQL stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,105,What does LAN stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,105,What does LAN stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,105,What does LAN stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,105,What does LAN stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,105,What does LAN stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,105,What does LAN stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,105,What does LAN stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,105,What does LAN stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,106,What does VPN stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,106,What does VPN stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,106,What does VPN stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,106,What does VPN stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,106,What does VPN stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,106,What does VPN stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,106,What does VPN stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,106,What does VPN stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,107,What does API stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,107,What does API stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,107,What does API stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,107,What does API stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,107,What does API stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,107,What does API stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,107,What does API stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,107,What does API stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,108,What does SMS stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,108,What does SMS stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,108,What does SMS stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,108,What does SMS stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,108,What does SMS stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,108,What does SMS stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,108,What does SMS stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,108,What does SMS stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,109,What does CEO stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,109,What does CEO stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,109,What does CEO stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,109,What does CEO stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,109,What does CEO stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,109,What does CEO stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,109,What does CEO stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,109,What does CEO stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,110,What does NGO stand for?,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,110,What does NGO stand for?,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,110,What does NGO stand for?,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,110,What does NGO stand for?,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,110,What does NGO stand for?,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,110,What does NGO stand for?,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,110,What does NGO stand for?,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,110,What does NGO stand for?,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,11,كم عجلة في الدراجة العادية؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,11,كم عجلة في الدراجة العادية؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,11,كم عجلة في الدراجة العادية؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,11,كم عجلة في الدراجة العادية؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,11,كم عجلة في الدراجة العادية؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,11,كم عجلة في الدراجة العادية؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,11,كم عجلة في الدراجة العادية؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,11,كم عجلة في الدراجة العادية؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,12,في أي سنة غرقت سفينة تيتانيك؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,13,كم ساعة في اليوم الكامل؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,13,كم ساعة في اليوم الكامل؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,13,كم ساعة في اليوم الكامل؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,13,كم ساعة في اليوم الكامل؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,13,كم ساعة في اليوم الكامل؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,13,كم ساعة في اليوم الكامل؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,13,كم ساعة في اليوم الكامل؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,13,كم ساعة في اليوم الكامل؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,14,ما ناتج قسمة 12 على 3؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,14,ما ناتج قسمة 12 على 3؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,14,ما ناتج قسمة 12 على 3؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,14,ما ناتج قسمة 12 على 3؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,14,ما ناتج قسمة 12 على 3؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,14,ما ناتج قسمة 12 على 3؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,14,ما ناتج قسمة 12 على 3؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,14,ما ناتج قسمة 12 على 3؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,15,كم درجة في الزاوية القائمة؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,15,كم درجة في الزاوية القائمة؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,15,كم درجة في الزاوية القائمة؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,15,كم درجة في الزاوية القائمة؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,15,كم درجة في الزاوية القائمة؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,15,كم درجة في الزاوية القائمة؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,15,كم درجة في الزاوية القائمة؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,15,كم درجة في الزاوية القائمة؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,16,ما قيمة 20% من 200؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,16,ما قيمة 20% من 200؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,16,ما قيمة 20% من 200؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,16,ما قيمة 20% من 200؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,16,ما قيمة 20% من 200؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,16,ما قيمة 20% من 200؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,16,ما قيمة 20% من 200؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,16,ما قيمة 20% من 200؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,17,كم حرفًا في الأبجدية العربية؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,17,كم حرفًا في الأبجدية العربية؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,17,كم حرفًا في الأبجدية العربية؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,17,كم حرفًا في الأبجدية العربية؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,17,كم حرفًا في الأبجدية العربية؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,17,كم حرفًا في الأبجدية العربية؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,17,كم حرفًا في الأبجدية العربية؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,17,كم حرفًا في الأبجدية العربية؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,18,ما قيمة 7 تربيع؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,18,ما قيمة 7 تربيع؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,18,ما قيمة 7 تربيع؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,18,ما قيمة 7 تربيع؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,18,ما قيمة 7 تربيع؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,18,ما قيمة 7 تربيع؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,18,ما قيمة 7 تربيع؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,18,ما قيمة 7 تربيع؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,19,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,19,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,19,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,19,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,19,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,19,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,19,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,19,كم شهرًا يحتوي على 31 يومًا؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,20,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,0,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,20,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,1,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,20,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,2,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,20,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,3,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,20,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,4,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,20,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,5,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,20,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,6,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,20,كم غرامًا في الكيلوغرام الواحد؟,NUMBER,7,NUMBER,NUMBER,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,31,أين يقع تمثال الحرية؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,31,أين يقع تمثال الحرية؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,31,أين يقع تمثال الحرية؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,31,أين يقع تمثال الحرية؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,31,أين يقع تمثال الحرية؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,31,أين يقع تمثال الحرية؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,31,أين يقع تمثال الحرية؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,31,أين يقع تمثال الحرية؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,32,في أي دولة تقع لشبونة؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,32,في أي دولة تقع لشبونة؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,32,في أي دولة تقع لشبونة؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,32,في أي دولة تقع لشبونة؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,32,في أي دولة تقع لشبونة؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,32,في أي دولة تقع لشبونة؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,32,في أي دولة تقع لشبونة؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,32,في أي دولة تقع لشبونة؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,33,ما عاصمة أستراليا؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,33,ما عاصمة أستراليا؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,33,ما عاصمة أستراليا؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,33,ما عاصمة أستراليا؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,33,ما عاصمة أستراليا؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,33,ما عاصمة أستراليا؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,33,ما عاصمة أستراليا؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,33,ما عاصمة أستراليا؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,34,في أي قارة تقع الأرجنتين؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,34,في أي قارة تقع الأرجنتين؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,34,في أي قارة تقع الأرجنتين؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,34,في أي قارة تقع الأرجنتين؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,34,في أي قارة تقع الأرجنتين؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,34,في أي قارة تقع الأرجنتين؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,34,في أي قارة تقع الأرجنتين؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,34,في أي قارة تقع الأرجنتين؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,35,أين تقع أهرامات الجيزة؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,35,أين تقع أهرامات الجيزة؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,35,أين تقع أهرامات الجيزة؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,35,أين تقع أهرامات الجيزة؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,35,أين تقع أهرامات الجيزة؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,35,أين تقع أهرامات الجيزة؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,35,أين تقع أهرامات الجيزة؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,35,أين تقع أهرامات الجيزة؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,36,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,36,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,36,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,36,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,36,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,36,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,36,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,36,ما المحيط الموجود غرب الولايات المتحدة؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,37,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,37,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,37,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,37,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,37,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,37,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,37,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,37,ما المدينة المشهورة بساعة بيغ بن؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,38,في أي دولة يقع تاج محل؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,38,في أي دولة يقع تاج محل؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,38,في أي دولة يقع تاج محل؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,38,في أي دولة يقع تاج محل؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,38,في أي دولة يقع تاج محل؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,38,في أي دولة يقع تاج محل؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,38,في أي دولة يقع تاج محل؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,38,في أي دولة يقع تاج محل؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,39,أين تقع بحيرة فيكتوريا؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,39,أين تقع بحيرة فيكتوريا؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,39,أين تقع بحيرة فيكتوريا؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,39,أين تقع بحيرة فيكتوريا؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,39,أين تقع بحيرة فيكتوريا؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,39,أين تقع بحيرة فيكتوريا؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,39,أين تقع بحيرة فيكتوريا؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,39,أين تقع بحيرة فيكتوريا؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,40,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,0,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,40,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,1,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,40,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,2,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,40,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,3,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,40,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,4,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,40,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,5,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,40,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,6,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,40,ما المنطقة المعروفة باسم الشرق الأوسط؟,LOCATION,7,LOCATION,LOCATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,51,من كتب رواية كبرياء وتحامل؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,51,من كتب رواية كبرياء وتحامل؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,51,من كتب رواية كبرياء وتحامل؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,51,من كتب رواية كبرياء وتحامل؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,51,من كتب رواية كبرياء وتحامل؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,51,من كتب رواية كبرياء وتحامل؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,51,من كتب رواية كبرياء وتحامل؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,51,من كتب رواية كبرياء وتحامل؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,52,من ابتكر شخصية شرلوك هولمز؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,52,من ابتكر شخصية شرلوك هولمز؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,52,من ابتكر شخصية شرلوك هولمز؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,52,من ابتكر شخصية شرلوك هولمز؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,52,من ابتكر شخصية شرلوك هولمز؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,52,من ابتكر شخصية شرلوك هولمز؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,52,من ابتكر شخصية شرلوك هولمز؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,52,من ابتكر شخصية شرلوك هولمز؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,53,من اكتشف البنسلين؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,53,من اكتشف البنسلين؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,53,من اكتشف البنسلين؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,53,من اكتشف البنسلين؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,53,من اكتشف البنسلين؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,53,من اكتشف البنسلين؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,53,من اكتشف البنسلين؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,53,من اكتشف البنسلين؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,54,من رسم لوحة ليلة النجوم؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,54,من رسم لوحة ليلة النجوم؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,54,من رسم لوحة ليلة النجوم؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,54,من رسم لوحة ليلة النجوم؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,54,من رسم لوحة ليلة النجوم؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,54,من رسم لوحة ليلة النجوم؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,54,من رسم لوحة ليلة النجوم؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,54,من رسم لوحة ليلة النجوم؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,55,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,55,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,55,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,55,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,55,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,55,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,55,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,55,من كانت أول امرأة تفوز بجائزة نوبل؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,56,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,56,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,56,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,56,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,56,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,56,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,56,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,56,من قاد حركة استقلال الهند بالمقاومة السلمية؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,57,من هو مؤلف رواية سيد الخواتم؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,57,من هو مؤلف رواية سيد الخواتم؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,57,من هو مؤلف رواية سيد الخواتم؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,57,من هو مؤلف رواية سيد الخواتم؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,57,من هو مؤلف رواية سيد الخواتم؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,57,من هو مؤلف رواية سيد الخواتم؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,57,من هو مؤلف رواية سيد الخواتم؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,57,من هو مؤلف رواية سيد الخواتم؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,58,من اخترع شبكة الويب العالمية؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,58,من اخترع شبكة الويب العالمية؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,58,من اخترع شبكة الويب العالمية؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,58,من اخترع شبكة الويب العالمية؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,58,من اخترع شبكة الويب العالمية؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,58,من اخترع شبكة الويب العالمية؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,58,من اخترع شبكة الويب العالمية؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,58,من اخترع شبكة الويب العالمية؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,59,من كانت كليوباترا؟,PERSON,0,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,59,من كانت كليوباترا؟,PERSON,1,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,59,من كانت كليوباترا؟,PERSON,2,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,59,من كانت كليوباترا؟,PERSON,3,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,59,من كانت كليوباترا؟,PERSON,4,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,59,من كانت كليوباترا؟,PERSON,5,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,59,من كانت كليوباترا؟,PERSON,6,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,59,من كانت كليوباترا؟,PERSON,7,PERSON,PERSON,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,0,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,1,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,2,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,3,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,4,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,5,ENTITY,ENTITY,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,6,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,7,ENTITY,ENTITY,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,71,ما هي الجاذبية؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,71,ما هي الجاذبية؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,71,ما هي الجاذبية؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,71,ما هي الجاذبية؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,71,ما هي الجاذبية؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,71,ما هي الجاذبية؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,71,ما هي الجاذبية؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,71,ما هي الجاذبية؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,72,ماذا تعني إعادة التدوير؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,72,ماذا تعني إعادة التدوير؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,72,ماذا تعني إعادة التدوير؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,72,ماذا تعني إعادة التدوير؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,72,ماذا تعني إعادة التدوير؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,72,ماذا تعني إعادة التدوير؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,72,ماذا تعني إعادة التدوير؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,72,ماذا تعني إعادة التدوير؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,73,ما وظيفة نظام التشغيل؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,73,ما وظيفة نظام التشغيل؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,73,ما وظيفة نظام التشغيل؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,73,ما وظيفة نظام التشغيل؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,73,ما وظيفة نظام التشغيل؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,73,ما وظيفة نظام التشغيل؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,73,ما وظيفة نظام التشغيل؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,73,ما وظيفة نظام التشغيل؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,74,كيف يعمل الإنترنت؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,74,كيف يعمل الإنترنت؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,74,كيف يعمل الإنترنت؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,74,كيف يعمل الإنترنت؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,74,كيف يعمل الإنترنت؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,74,كيف يعمل الإنترنت؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,74,كيف يعمل الإنترنت؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,74,كيف يعمل الإنترنت؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,75,ما هو التبخر؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,75,ما هو التبخر؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,75,ما هو التبخر؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,75,ما هو التبخر؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,75,ما هو التبخر؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,75,ما هو التبخر؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,75,ما هو التبخر؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,75,ما هو التبخر؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,76,ماذا يعني التنوع الثقافي؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,76,ماذا يعني التنوع الثقافي؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,76,ماذا يعني التنوع الثقافي؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,76,ماذا يعني التنوع الثقافي؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,76,ماذا يعني التنوع الثقافي؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,76,ماذا يعني التنوع الثقافي؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,76,ماذا يعني التنوع الثقافي؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,76,ماذا يعني التنوع الثقافي؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,0,PERSON,PERSON,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,5,PERSON,PERSON,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,6,PERSON,PERSON,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,78,ما هي تقنية البلوكشين؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,78,ما هي تقنية البلوكشين؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,78,ما هي تقنية البلوكشين؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,78,ما هي تقنية البلوكشين؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,78,ما هي تقنية البلوكشين؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,78,ما هي تقنية البلوكشين؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,78,ما هي تقنية البلوكشين؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,78,ما هي تقنية البلوكشين؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,79,ماذا يعني العرض والطلب؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,80,ما وظيفة محرك البحث؟,DESCRIPTION,0,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,80,ما وظيفة محرك البحث؟,DESCRIPTION,1,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,80,ما وظيفة محرك البحث؟,DESCRIPTION,2,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,80,ما وظيفة محرك البحث؟,DESCRIPTION,3,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,80,ما وظيفة محرك البحث؟,DESCRIPTION,4,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,80,ما وظيفة محرك البحث؟,DESCRIPTION,5,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,80,ما وظيفة محرك البحث؟,DESCRIPTION,6,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,80,ما وظيفة محرك البحث؟,DESCRIPTION,7,DESCRIPTION,DESCRIPTION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,91,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,92,ما الأداة المستخدمة لقص الورق؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,92,ما الأداة المستخدمة لقص الورق؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,92,ما الأداة المستخدمة لقص الورق؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,92,ما الأداة المستخدمة لقص الورق؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,92,ما الأداة المستخدمة لقص الورق؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,92,ما الأداة المستخدمة لقص الورق؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,92,ما الأداة المستخدمة لقص الورق؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,92,ما الأداة المستخدمة لقص الورق؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,93,ما المركبة التي تسير على السكك الحديدية؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,94,ما الشيء المستخدم لفتح الباب؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,95,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,96,ما الآلة المستخدمة لغسل الملابس؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,97,ما المادة المستخدمة عادة لصنع النوافذ؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,98,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,0,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,1,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,2,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,3,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,4,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,5,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,6,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,100,ما الرياضة التي تستخدم مضربًا وريشة؟,ENTITY,7,ENTITY,ENTITY,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,111,ماذا يعني اختصار ATM؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,111,ماذا يعني اختصار ATM؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,111,ماذا يعني اختصار ATM؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,111,ماذا يعني اختصار ATM؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,111,ماذا يعني اختصار ATM؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,111,ماذا يعني اختصار ATM؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,111,ماذا يعني اختصار ATM؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,111,ماذا يعني اختصار ATM؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,112,ماذا يعني اختصار FAQ؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,112,ماذا يعني اختصار FAQ؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,112,ماذا يعني اختصار FAQ؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,112,ماذا يعني اختصار FAQ؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,112,ماذا يعني اختصار FAQ؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,112,ماذا يعني اختصار FAQ؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,112,ماذا يعني اختصار FAQ؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,112,ماذا يعني اختصار FAQ؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,113,ماذا يعني اختصار HTTP؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,113,ماذا يعني اختصار HTTP؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,113,ماذا يعني اختصار HTTP؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,113,ماذا يعني اختصار HTTP؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,113,ماذا يعني اختصار HTTP؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,113,ماذا يعني اختصار HTTP؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,113,ماذا يعني اختصار HTTP؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,113,ماذا يعني اختصار HTTP؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,114,ماذا يعني اختصار SQL؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,114,ماذا يعني اختصار SQL؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,114,ماذا يعني اختصار SQL؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,114,ماذا يعني اختصار SQL؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,114,ماذا يعني اختصار SQL؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,114,ماذا يعني اختصار SQL؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,114,ماذا يعني اختصار SQL؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,114,ماذا يعني اختصار SQL؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,115,ماذا يعني اختصار LAN؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,115,ماذا يعني اختصار LAN؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,115,ماذا يعني اختصار LAN؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,115,ماذا يعني اختصار LAN؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,115,ماذا يعني اختصار LAN؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,115,ماذا يعني اختصار LAN؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,115,ماذا يعني اختصار LAN؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,115,ماذا يعني اختصار LAN؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,116,ماذا يعني اختصار VPN؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,116,ماذا يعني اختصار VPN؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,116,ماذا يعني اختصار VPN؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,116,ماذا يعني اختصار VPN؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,116,ماذا يعني اختصار VPN؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,116,ماذا يعني اختصار VPN؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,116,ماذا يعني اختصار VPN؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,116,ماذا يعني اختصار VPN؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,117,ماذا يعني اختصار API؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,117,ماذا يعني اختصار API؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,117,ماذا يعني اختصار API؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,117,ماذا يعني اختصار API؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,117,ماذا يعني اختصار API؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,117,ماذا يعني اختصار API؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,117,ماذا يعني اختصار API؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,117,ماذا يعني اختصار API؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,118,ماذا يعني اختصار SMS؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,118,ماذا يعني اختصار SMS؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,118,ماذا يعني اختصار SMS؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,118,ماذا يعني اختصار SMS؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,118,ماذا يعني اختصار SMS؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,118,ماذا يعني اختصار SMS؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,118,ماذا يعني اختصار SMS؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,118,ماذا يعني اختصار SMS؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,119,ماذا يعني اختصار CEO؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,119,ماذا يعني اختصار CEO؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,119,ماذا يعني اختصار CEO؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,119,ماذا يعني اختصار CEO؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,119,ماذا يعني اختصار CEO؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,119,ماذا يعني اختصار CEO؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,119,ماذا يعني اختصار CEO؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,119,ماذا يعني اختصار CEO؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,120,ماذا يعني اختصار NGO؟,ABBREVIATION,0,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,120,ماذا يعني اختصار NGO؟,ABBREVIATION,1,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,120,ماذا يعني اختصار NGO؟,ABBREVIATION,2,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,120,ماذا يعني اختصار NGO؟,ABBREVIATION,3,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,120,ماذا يعني اختصار NGO؟,ABBREVIATION,4,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,120,ماذا يعني اختصار NGO؟,ABBREVIATION,5,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,120,ماذا يعني اختصار NGO؟,ABBREVIATION,6,ABBREVIATION,ABBREVIATION,True
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,120,ماذا يعني اختصار NGO؟,ABBREVIATION,7,ABBREVIATION,ABBREVIATION,True

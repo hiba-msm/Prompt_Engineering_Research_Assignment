@@ -1,0 +1,121 @@
+id,label,language,question
+1,NUMBER,English,How many wheels does a standard bicycle have?
+2,NUMBER,English,In what year did the Titanic sink?
+3,NUMBER,English,How many hours are in a full day?
+4,NUMBER,English,What is 12 divided by 3?
+5,NUMBER,English,How many degrees are in a right angle?
+6,NUMBER,English,What is 20% of 200?
+7,NUMBER,English,How many letters are in the English alphabet?
+8,NUMBER,English,What is the value of 7 squared?
+9,NUMBER,English,How many months have 31 days?
+10,NUMBER,English,How many grams are in one kilogram?
+11,NUMBER,Arabic,كم عجلة في الدراجة العادية؟
+12,NUMBER,Arabic,في أي سنة غرقت سفينة تيتانيك؟
+13,NUMBER,Arabic,كم ساعة في اليوم الكامل؟
+14,NUMBER,Arabic,ما ناتج قسمة 12 على 3؟
+15,NUMBER,Arabic,كم درجة في الزاوية القائمة؟
+16,NUMBER,Arabic,ما قيمة 20% من 200؟
+17,NUMBER,Arabic,كم حرفًا في الأبجدية العربية؟
+18,NUMBER,Arabic,ما قيمة 7 تربيع؟
+19,NUMBER,Arabic,كم شهرًا يحتوي على 31 يومًا؟
+20,NUMBER,Arabic,كم غرامًا في الكيلوغرام الواحد؟
+21,LOCATION,English,Where is the Statue of Liberty located?
+22,LOCATION,English,Which country is Lisbon in?
+23,LOCATION,English,What is the capital city of Australia?
+24,LOCATION,English,On which continent is Argentina located?
+25,LOCATION,English,Where are the Pyramids of Giza located?
+26,LOCATION,English,Which ocean is west of the United States?
+27,LOCATION,English,Which city is famous for Big Ben?
+28,LOCATION,English,In which country is the Taj Mahal located?
+29,LOCATION,English,Where is Lake Victoria located?
+30,LOCATION,English,Which region is known as the Middle East?
+31,LOCATION,Arabic,أين يقع تمثال الحرية؟
+32,LOCATION,Arabic,في أي دولة تقع لشبونة؟
+33,LOCATION,Arabic,ما عاصمة أستراليا؟
+34,LOCATION,Arabic,في أي قارة تقع الأرجنتين؟
+35,LOCATION,Arabic,أين تقع أهرامات الجيزة؟
+36,LOCATION,Arabic,ما المحيط الموجود غرب الولايات المتحدة؟
+37,LOCATION,Arabic,ما المدينة المشهورة بساعة بيغ بن؟
+38,LOCATION,Arabic,في أي دولة يقع تاج محل؟
+39,LOCATION,Arabic,أين تقع بحيرة فيكتوريا؟
+40,LOCATION,Arabic,ما المنطقة المعروفة باسم الشرق الأوسط؟
+41,PERSON,English,Who wrote Pride and Prejudice?
+42,PERSON,English,Who created the character Sherlock Holmes?
+43,PERSON,English,Who discovered penicillin?
+44,PERSON,English,Who painted The Starry Night?
+45,PERSON,English,Who was the first woman to win a Nobel Prize?
+46,PERSON,English,Who led India’s independence movement through nonviolent resistance?
+47,PERSON,English,Who is the author of The Lord of the Rings?
+48,PERSON,English,Who invented the World Wide Web?
+49,PERSON,English,Who was Cleopatra?
+50,PERSON,English,Who composed Moonlight Sonata?
+51,PERSON,Arabic,من كتب رواية كبرياء وتحامل؟
+52,PERSON,Arabic,من ابتكر شخصية شرلوك هولمز؟
+53,PERSON,Arabic,من اكتشف البنسلين؟
+54,PERSON,Arabic,من رسم لوحة ليلة النجوم؟
+55,PERSON,Arabic,من كانت أول امرأة تفوز بجائزة نوبل؟
+56,PERSON,Arabic,من قاد حركة استقلال الهند بالمقاومة السلمية؟
+57,PERSON,Arabic,من هو مؤلف رواية سيد الخواتم؟
+58,PERSON,Arabic,من اخترع شبكة الويب العالمية؟
+59,PERSON,Arabic,من كانت كليوباترا؟
+60,PERSON,Arabic,من ألّف سوناتا ضوء القمر؟
+61,DESCRIPTION,English,What is gravity?
+62,DESCRIPTION,English,What does recycling mean?
+63,DESCRIPTION,English,What is the purpose of an operating system?
+64,DESCRIPTION,English,How does the internet work?
+65,DESCRIPTION,English,What is evaporation?
+66,DESCRIPTION,English,What does cultural diversity mean?
+67,DESCRIPTION,English,What is the role of the lungs?
+68,DESCRIPTION,English,What is blockchain?
+69,DESCRIPTION,English,What does supply and demand mean?
+70,DESCRIPTION,English,What is the function of a search engine?
+71,DESCRIPTION,Arabic,ما هي الجاذبية؟
+72,DESCRIPTION,Arabic,ماذا تعني إعادة التدوير؟
+73,DESCRIPTION,Arabic,ما وظيفة نظام التشغيل؟
+74,DESCRIPTION,Arabic,كيف يعمل الإنترنت؟
+75,DESCRIPTION,Arabic,ما هو التبخر؟
+76,DESCRIPTION,Arabic,ماذا يعني التنوع الثقافي؟
+77,DESCRIPTION,Arabic,ما دور الرئتين؟
+78,DESCRIPTION,Arabic,ما هي تقنية البلوكشين؟
+79,DESCRIPTION,Arabic,ماذا يعني العرض والطلب؟
+80,DESCRIPTION,Arabic,ما وظيفة محرك البحث؟
+81,ENTITY,English,What fruit is commonly used to make orange juice?
+82,ENTITY,English,What tool is used to cut paper?
+83,ENTITY,English,What vehicle runs on railway tracks?
+84,ENTITY,English,What object is used to unlock a door?
+85,ENTITY,English,What food is made from milk and often used on pizza?
+86,ENTITY,English,What machine is used to wash clothes?
+87,ENTITY,English,What material is commonly used to make windows?
+88,ENTITY,English,What app is commonly used for video meetings?
+89,ENTITY,English,What natural satellite orbits Earth?
+90,ENTITY,English,What sport uses a racket and a shuttlecock?
+91,ENTITY,Arabic,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟
+92,ENTITY,Arabic,ما الأداة المستخدمة لقص الورق؟
+93,ENTITY,Arabic,ما المركبة التي تسير على السكك الحديدية؟
+94,ENTITY,Arabic,ما الشيء المستخدم لفتح الباب؟
+95,ENTITY,Arabic,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟
+96,ENTITY,Arabic,ما الآلة المستخدمة لغسل الملابس؟
+97,ENTITY,Arabic,ما المادة المستخدمة عادة لصنع النوافذ؟
+98,ENTITY,Arabic,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟
+99,ENTITY,Arabic,ما القمر الطبيعي الذي يدور حول الأرض؟
+100,ENTITY,Arabic,ما الرياضة التي تستخدم مضربًا وريشة؟
+101,ABBREVIATION,English,What does ATM stand for?
+102,ABBREVIATION,English,What does FAQ stand for?
+103,ABBREVIATION,English,What does HTTP stand for?
+104,ABBREVIATION,English,What does SQL stand for?
+105,ABBREVIATION,English,What does LAN stand for?
+106,ABBREVIATION,English,What does VPN stand for?
+107,ABBREVIATION,English,What does API stand for?
+108,ABBREVIATION,English,What does SMS stand for?
+109,ABBREVIATION,English,What does CEO stand for?
+110,ABBREVIATION,English,What does NGO stand for?
+111,ABBREVIATION,Arabic,ماذا يعني اختصار ATM؟
+112,ABBREVIATION,Arabic,ماذا يعني اختصار FAQ؟
+113,ABBREVIATION,Arabic,ماذا يعني اختصار HTTP؟
+114,ABBREVIATION,Arabic,ماذا يعني اختصار SQL؟
+115,ABBREVIATION,Arabic,ماذا يعني اختصار LAN؟
+116,ABBREVIATION,Arabic,ماذا يعني اختصار VPN؟
+117,ABBREVIATION,Arabic,ماذا يعني اختصار API؟
+118,ABBREVIATION,Arabic,ماذا يعني اختصار SMS؟
+119,ABBREVIATION,Arabic,ماذا يعني اختصار CEO؟
+120,ABBREVIATION,Arabic,ماذا يعني اختصار NGO؟

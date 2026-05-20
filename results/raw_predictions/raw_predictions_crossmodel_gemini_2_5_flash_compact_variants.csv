@@ -1,0 +1,961 @@
+model,model_type,sample_id,id,language,label,gold_label,question,prompt_id,prompt_variant,raw_output,prediction,predicted_label,is_correct
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,1,1,English,NUMBER,NUMBER,How many wheels does a standard bicycle have?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,2,2,English,NUMBER,NUMBER,In what year did the Titanic sink?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,3,3,English,NUMBER,NUMBER,How many hours are in a full day?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,4,4,English,NUMBER,NUMBER,What is 12 divided by 3?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,5,5,English,NUMBER,NUMBER,How many degrees are in a right angle?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,6,6,English,NUMBER,NUMBER,What is 20% of 200?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,7,7,English,NUMBER,NUMBER,How many letters are in the English alphabet?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,8,8,English,NUMBER,NUMBER,What is the value of 7 squared?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,9,9,English,NUMBER,NUMBER,How many months have 31 days?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,10,10,English,NUMBER,NUMBER,How many grams are in one kilogram?,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,11,11,Arabic,NUMBER,NUMBER,كم عجلة في الدراجة العادية؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,12,12,Arabic,NUMBER,NUMBER,في أي سنة غرقت سفينة تيتانيك؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,13,13,Arabic,NUMBER,NUMBER,كم ساعة في اليوم الكامل؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,14,14,Arabic,NUMBER,NUMBER,ما ناتج قسمة 12 على 3؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,15,15,Arabic,NUMBER,NUMBER,كم درجة في الزاوية القائمة؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,16,16,Arabic,NUMBER,NUMBER,ما قيمة 20% من 200؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,17,17,Arabic,NUMBER,NUMBER,كم حرفًا في الأبجدية العربية؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,18,18,Arabic,NUMBER,NUMBER,ما قيمة 7 تربيع؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,19,19,Arabic,NUMBER,NUMBER,كم شهرًا يحتوي على 31 يومًا؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,1,1,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,2,2,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,3,3,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,4,4,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,5,5,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,6,6,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,7,7,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,20,20,Arabic,NUMBER,NUMBER,كم غرامًا في الكيلوغرام الواحد؟,8,8,NUMBER,NUMBER,NUMBER,1
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,21,21,English,LOCATION,LOCATION,Where is the Statue of Liberty located?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,22,22,English,LOCATION,LOCATION,Which country is Lisbon in?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,23,23,English,LOCATION,LOCATION,What is the capital city of Australia?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,24,24,English,LOCATION,LOCATION,On which continent is Argentina located?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,25,25,English,LOCATION,LOCATION,Where are the Pyramids of Giza located?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,26,26,English,LOCATION,LOCATION,Which ocean is west of the United States?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,27,27,English,LOCATION,LOCATION,Which city is famous for Big Ben?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,28,28,English,LOCATION,LOCATION,In which country is the Taj Mahal located?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,29,29,English,LOCATION,LOCATION,Where is Lake Victoria located?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,30,30,English,LOCATION,LOCATION,Which region is known as the Middle East?,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,31,31,Arabic,LOCATION,LOCATION,أين يقع تمثال الحرية؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,32,32,Arabic,LOCATION,LOCATION,في أي دولة تقع لشبونة؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,5,5,ENTITY,ENTITY,ENTITY,0
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,33,33,Arabic,LOCATION,LOCATION,ما عاصمة أستراليا؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,34,34,Arabic,LOCATION,LOCATION,في أي قارة تقع الأرجنتين؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,35,35,Arabic,LOCATION,LOCATION,أين تقع أهرامات الجيزة؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,2,2,ENTITY,ENTITY,ENTITY,0
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,5,5,ENTITY,ENTITY,ENTITY,0
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,36,36,Arabic,LOCATION,LOCATION,ما المحيط الموجود غرب الولايات المتحدة؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,5,5,ENTITY,ENTITY,ENTITY,0
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,37,37,Arabic,LOCATION,LOCATION,ما المدينة المشهورة بساعة بيغ بن؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,38,38,Arabic,LOCATION,LOCATION,في أي دولة يقع تاج محل؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,39,39,Arabic,LOCATION,LOCATION,أين تقع بحيرة فيكتوريا؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,1,1,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,2,2,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,3,3,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,4,4,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,5,5,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,6,6,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,7,7,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,40,40,Arabic,LOCATION,LOCATION,ما المنطقة المعروفة باسم الشرق الأوسط؟,8,8,LOCATION,LOCATION,LOCATION,1
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,41,41,English,PERSON,PERSON,Who wrote Pride and Prejudice?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,42,42,English,PERSON,PERSON,Who created the character Sherlock Holmes?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,43,43,English,PERSON,PERSON,Who discovered penicillin?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,44,44,English,PERSON,PERSON,Who painted The Starry Night?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,45,45,English,PERSON,PERSON,Who was the first woman to win a Nobel Prize?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,46,46,English,PERSON,PERSON,Who led India’s independence movement through nonviolent resistance?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,47,47,English,PERSON,PERSON,Who is the author of The Lord of the Rings?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,48,48,English,PERSON,PERSON,Who invented the World Wide Web?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,49,49,English,PERSON,PERSON,Who was Cleopatra?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,50,50,English,PERSON,PERSON,Who composed Moonlight Sonata?,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,51,51,Arabic,PERSON,PERSON,من كتب رواية كبرياء وتحامل؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,52,52,Arabic,PERSON,PERSON,من ابتكر شخصية شرلوك هولمز؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,53,53,Arabic,PERSON,PERSON,من اكتشف البنسلين؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,54,54,Arabic,PERSON,PERSON,من رسم لوحة ليلة النجوم؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,55,55,Arabic,PERSON,PERSON,من كانت أول امرأة تفوز بجائزة نوبل؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,56,56,Arabic,PERSON,PERSON,من قاد حركة استقلال الهند بالمقاومة السلمية؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,57,57,Arabic,PERSON,PERSON,من هو مؤلف رواية سيد الخواتم؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,58,58,Arabic,PERSON,PERSON,من اخترع شبكة الويب العالمية؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,59,59,Arabic,PERSON,PERSON,من كانت كليوباترا؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,1,1,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,2,2,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,3,3,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,4,4,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,5,5,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,6,6,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,7,7,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,60,60,Arabic,PERSON,PERSON,من ألّف سوناتا ضوء القمر؟,8,8,PERSON,PERSON,PERSON,1
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,61,61,English,DESCRIPTION,DESCRIPTION,What is gravity?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,62,62,English,DESCRIPTION,DESCRIPTION,What does recycling mean?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,63,63,English,DESCRIPTION,DESCRIPTION,What is the purpose of an operating system?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,64,64,English,DESCRIPTION,DESCRIPTION,How does the internet work?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,65,65,English,DESCRIPTION,DESCRIPTION,What is evaporation?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,66,66,English,DESCRIPTION,DESCRIPTION,What does cultural diversity mean?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,67,67,English,DESCRIPTION,DESCRIPTION,What is the role of the lungs?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,68,68,English,DESCRIPTION,DESCRIPTION,What is blockchain?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,69,69,English,DESCRIPTION,DESCRIPTION,What does supply and demand mean?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,70,70,English,DESCRIPTION,DESCRIPTION,What is the function of a search engine?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,71,71,Arabic,DESCRIPTION,DESCRIPTION,ما هي الجاذبية؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,72,72,Arabic,DESCRIPTION,DESCRIPTION,ماذا تعني إعادة التدوير؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,73,73,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة نظام التشغيل؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,74,74,Arabic,DESCRIPTION,DESCRIPTION,كيف يعمل الإنترنت؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,75,75,Arabic,DESCRIPTION,DESCRIPTION,ما هو التبخر؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,76,76,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني التنوع الثقافي؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,77,77,Arabic,DESCRIPTION,DESCRIPTION,ما دور الرئتين؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,78,78,Arabic,DESCRIPTION,DESCRIPTION,ما هي تقنية البلوكشين؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,79,79,Arabic,DESCRIPTION,DESCRIPTION,ماذا يعني العرض والطلب؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,80,80,Arabic,DESCRIPTION,DESCRIPTION,ما وظيفة محرك البحث؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,1
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,81,81,English,ENTITY,ENTITY,What fruit is commonly used to make orange juice?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,82,82,English,ENTITY,ENTITY,What tool is used to cut paper?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,83,83,English,ENTITY,ENTITY,What vehicle runs on railway tracks?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,84,84,English,ENTITY,ENTITY,What object is used to unlock a door?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,85,85,English,ENTITY,ENTITY,What food is made from milk and often used on pizza?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,86,86,English,ENTITY,ENTITY,What machine is used to wash clothes?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,87,87,English,ENTITY,ENTITY,What material is commonly used to make windows?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,88,88,English,ENTITY,ENTITY,What app is commonly used for video meetings?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,89,89,English,ENTITY,ENTITY,What natural satellite orbits Earth?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,90,90,English,ENTITY,ENTITY,What sport uses a racket and a shuttlecock?,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,91,91,Arabic,ENTITY,ENTITY,ما الفاكهة المستخدمة عادة لصنع عصير البرتقال؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,92,92,Arabic,ENTITY,ENTITY,ما الأداة المستخدمة لقص الورق؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,93,93,Arabic,ENTITY,ENTITY,ما المركبة التي تسير على السكك الحديدية؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,94,94,Arabic,ENTITY,ENTITY,ما الشيء المستخدم لفتح الباب؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,95,95,Arabic,ENTITY,ENTITY,ما الطعام المصنوع من الحليب ويستخدم غالبًا على البيتزا؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,96,96,Arabic,ENTITY,ENTITY,ما الآلة المستخدمة لغسل الملابس؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,97,97,Arabic,ENTITY,ENTITY,ما المادة المستخدمة عادة لصنع النوافذ؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,98,98,Arabic,ENTITY,ENTITY,ما التطبيق المستخدم عادة لاجتماعات الفيديو؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,5,5,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,7,7,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,99,99,Arabic,ENTITY,ENTITY,ما القمر الطبيعي الذي يدور حول الأرض؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,1,1,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,2,2,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,3,3,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,4,4,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,6,6,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,100,100,Arabic,ENTITY,ENTITY,ما الرياضة التي تستخدم مضربًا وريشة؟,8,8,ENTITY,ENTITY,ENTITY,1
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,101,101,English,ABBREVIATION,ABBREVIATION,What does ATM stand for?,8,8,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,5,5,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,102,102,English,ABBREVIATION,ABBREVIATION,What does FAQ stand for?,8,8,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,104,104,English,ABBREVIATION,ABBREVIATION,What does SQL stand for?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,5,5,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,105,105,English,ABBREVIATION,ABBREVIATION,What does LAN stand for?,8,8,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,5,5,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,106,106,English,ABBREVIATION,ABBREVIATION,What does VPN stand for?,8,8,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,5,5,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,107,107,English,ABBREVIATION,ABBREVIATION,What does API stand for?,8,8,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,108,108,English,ABBREVIATION,ABBREVIATION,What does SMS stand for?,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,109,109,English,ABBREVIATION,ABBREVIATION,What does CEO stand for?,8,8,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,1,1,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,2,2,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,3,3,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,4,4,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,5,5,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,6,6,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,7,7,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,110,110,English,ABBREVIATION,ABBREVIATION,What does NGO stand for?,8,8,ABBREVIATION,ABBREVIATION,ABBREVIATION,1
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,1,1,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,2,2,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,3,3,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,4,4,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,5,5,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,6,6,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,7,7,DESCRIPTION,DESCRIPTION,DESCRIPTION,0
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,8,8,DESCRIPTION,DESCRIPTION,DESCRIPTION,0

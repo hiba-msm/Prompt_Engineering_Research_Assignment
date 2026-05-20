@@ -1,0 +1,13 @@
+experiment_id,language,label,n_samples,n_correct,accuracy,avg_prompt_sensitivity
+Pilot_07_Unseen_Validation,arabic,ABBREVIATION,10,10,1.0,0.0
+Pilot_07_Unseen_Validation,arabic,DESCRIPTION,10,10,1.0,0.03399762514621516
+Pilot_07_Unseen_Validation,arabic,ENTITY,10,10,1.0,0.0
+Pilot_07_Unseen_Validation,arabic,LOCATION,10,10,1.0,0.0
+Pilot_07_Unseen_Validation,arabic,NUMBER,10,10,1.0,0.0
+Pilot_07_Unseen_Validation,arabic,PERSON,10,9,0.9,0.028898309867585965
+Pilot_07_Unseen_Validation,english,ABBREVIATION,10,10,1.0,0.0
+Pilot_07_Unseen_Validation,english,DESCRIPTION,10,10,1.0,0.0
+Pilot_07_Unseen_Validation,english,ENTITY,10,10,1.0,0.028898309867585965
+Pilot_07_Unseen_Validation,english,LOCATION,10,10,1.0,0.0
+Pilot_07_Unseen_Validation,english,NUMBER,10,10,1.0,0.0
+Pilot_07_Unseen_Validation,english,PERSON,10,10,1.0,0.0

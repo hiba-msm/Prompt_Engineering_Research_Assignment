@@ -1,0 +1,9 @@
+model,experiment_id,language,sample_id,text,gold,prompt_id,raw_output,prediction,is_correct_prompt_level
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,0,LOCATION,LOCATION,False
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,2,LOCATION,LOCATION,False
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,6,LOCATION,LOCATION,False
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,english,89,What natural satellite orbits Earth?,ENTITY,7,LOCATION,LOCATION,False
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,1,LOCATION,LOCATION,False
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,4,LOCATION,LOCATION,False
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,5,LOCATION,LOCATION,False
+humain-ai/ALLaM-7B-Instruct-preview,CrossModel_ALLaM_7B_Pilot07,arabic,99,ما القمر الطبيعي الذي يدور حول الأرض؟,ENTITY,7,LOCATION,LOCATION,False

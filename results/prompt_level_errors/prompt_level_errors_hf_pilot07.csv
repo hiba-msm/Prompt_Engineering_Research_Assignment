@@ -1,0 +1,14 @@
+model,experiment_id,language,sample_id,text,gold,prompt_id,raw_output,prediction,is_correct_prompt_level
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,0,DESCRIPTION,DESCRIPTION,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,english,90,What sport uses a racket and a shuttlecock?,ENTITY,6,DESCRIPTION,DESCRIPTION,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,0,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,1,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,2,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,3,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,4,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,5,ENTITY,ENTITY,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,6,NUMBER,NUMBER,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,60,من ألّف سوناتا ضوء القمر؟,PERSON,7,ENTITY,ENTITY,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,0,PERSON,PERSON,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,5,PERSON,PERSON,False
+tiiuae/Falcon3-7B-Instruct,Pilot_07_Unseen_Validation,arabic,77,ما دور الرئتين؟,DESCRIPTION,6,PERSON,PERSON,False

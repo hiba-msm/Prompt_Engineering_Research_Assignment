@@ -1,0 +1,13 @@
+language,label,ALLaM-7B-Instruct-preview,AceGPT-v2-8B-Chat,Falcon3-7B-Instruct,Gemini-2.5-Flash
+Arabic,ABBREVIATION,1.0,1.0,1.0,0.0
+Arabic,DESCRIPTION,1.0,1.0,1.0,1.0
+Arabic,ENTITY,1.0,0.3,1.0,1.0
+Arabic,LOCATION,1.0,1.0,1.0,1.0
+Arabic,NUMBER,1.0,1.0,1.0,1.0
+Arabic,PERSON,1.0,1.0,0.9,1.0
+English,ABBREVIATION,1.0,1.0,1.0,0.9
+English,DESCRIPTION,1.0,1.0,1.0,1.0
+English,ENTITY,0.9,0.5,1.0,1.0
+English,LOCATION,1.0,1.0,1.0,1.0
+English,NUMBER,1.0,1.0,1.0,1.0
+English,PERSON,1.0,1.0,1.0,1.0

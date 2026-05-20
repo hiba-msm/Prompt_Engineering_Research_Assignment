@@ -1,0 +1,18 @@
+{
+  "labels": [
+    "NUMBER",
+    "LOCATION",
+    "PERSON",
+    "DESCRIPTION",
+    "ENTITY",
+    "ABBREVIATION"
+  ],
+  "definitions": {
+    "NUMBER": "number/date/year/quantity/measurement/calculation",
+    "LOCATION": "place/country/city/continent/region/landmark/geographical area",
+    "PERSON": "person/named human/fictional character/human role",
+    "DESCRIPTION": "explanation/definition/meaning/function/purpose/use/process/description",
+    "ENTITY": "specific non-person, non-location, non-number thing",
+    "ABBREVIATION": "acronym/abbreviation/expansion"
+  }
+}

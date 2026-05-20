@@ -1,0 +1,3 @@
+model,language,n_samples,accuracy,accuracy_ci_low,accuracy_ci_high,n_bootstrap,seed
+gemini-2.5-flash,English,60,0.983333,0.950000,1.000000,10000,42
+gemini-2.5-flash,Arabic,60,0.833333,0.733333,0.916667,10000,42

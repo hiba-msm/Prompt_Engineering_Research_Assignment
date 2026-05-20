@@ -1,0 +1,12 @@
+model,model_type,sample_id,id,language,label,gold_label,question,majority_prediction,predicted_label,is_correct,vote_counts,sensitivity
+gemini-2.5-flash,closed,103,103,English,ABBREVIATION,ABBREVIATION,What does HTTP stand for?,DESCRIPTION,DESCRIPTION,0,"{""ABBREVIATION"": 4, ""DESCRIPTION"": 4}",0.356207
+gemini-2.5-flash,closed,111,111,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار ATM؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,112,112,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار FAQ؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,113,113,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار HTTP؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,114,114,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SQL؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,115,115,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار LAN؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,116,116,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار VPN؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,117,117,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار API؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,118,118,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار SMS؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,119,119,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار CEO؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
+gemini-2.5-flash,closed,120,120,Arabic,ABBREVIATION,ABBREVIATION,ماذا يعني اختصار NGO؟,DESCRIPTION,DESCRIPTION,0,"{""DESCRIPTION"": 8}",0.000000
